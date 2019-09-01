@@ -1,4 +1,8 @@
-dependency 'essentialmode'
+resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
+
+description 'ESX Vangelico Robbery'
+
+version '2.0.0'
 
 client_scripts {
 	'@es_extended/locale.lua',
@@ -19,4 +23,8 @@ server_scripts {
 	'locales/fr.lua',
 	'config.lua',
 	'server/esx_vangelico_robbery_sv.lua'
+}
+
+dependencies {
+	'es_extended'
 }

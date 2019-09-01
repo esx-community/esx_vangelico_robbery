@@ -1,9 +1,10 @@
 # fxserver_esx_vangelico_robbery
-FXserver ESX Vangelico Robbery
+FXserver ESX Vangelico Robbery V 2.0.0
 
 [REQUIREMENTS]
 
   * esx_policejob => https://github.com/FXServer-ESX/fxserver-esx_policejob
+  * esx_ambulancejob => https://github.com/ESX-Org/esx_ambulancejob
 
 [INSTALLATION]
 
@@ -20,9 +21,13 @@ start esx_vangelico_robbery
 
   * esx_holdup => https://github.com/ESX-Org/esx_holdup
 
-[VIDEO]
+[OLD VIDEO]
 
   * https://www.youtube.com/watch?v=MivP5hU5m8A
+
+[NEW VIDEO]
+
+  * https://streamable.com/y11r7
 
 
 
