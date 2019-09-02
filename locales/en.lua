@@ -31,5 +31,6 @@ Locales['en'] = {
 	['press_to_collect'] = 'to collect jewels',
 	['smash_case'] = 'broken windows',
 	['press_to_sell'] = 'Press ~INPUT_PICKUP~ to sell jewels',
+	['need_bag'] = 'You need the bag! Go to the nearest clotheshop.'
 
 }

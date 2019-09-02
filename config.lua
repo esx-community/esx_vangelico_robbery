@@ -9,6 +9,10 @@ Config.MaxWindows = 20
 Config.SecBetwNextRob = 3600 --1 hour
 Config.MaxJewelsSell = 20
 Config.PriceForOneJewel = 500
+Config.EnableMarker = true
+Config.NeedBag = true
+
+Config.Borsoni = {40, 41, 44, 45}
 
 Stores = {
 	["jewelry"] = {
