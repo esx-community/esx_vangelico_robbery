@@ -1,9 +1,11 @@
-# fxserver_esx_vangelico_robbery
-FXserver ESX Vangelico Robbery
+# esx_vangelico_robbery
+ESX Vangelico Robbery V 2.0.0
 
 [REQUIREMENTS]
-      FiveM-ipl   => https://github.com/ESX-PUBLIC/fivem-ipl
-  * esx_policejob => https://github.com/FXServer-ESX/fxserver-esx_policejob
+
+  * FiveM-ipl   => https://github.com/ESX-PUBLIC/fivem-ipl
+  * esx_policejob => https://github.com/ESX-Org/esx_policejob
+  * esx_ambulancejob => https://github.com/ESX-Org/esx_ambulancejob
 
 [INSTALLATION]
 
@@ -20,11 +22,10 @@ start esx_vangelico_robbery
 
   * esx_holdup => https://github.com/ESX-Org/esx_holdup
 
-[VIDEO]
+[OLD VIDEO]
 
   * https://www.youtube.com/watch?v=MivP5hU5m8A
 
+[NEW VIDEO]
 
-
-
-
+  * https://streamable.com/y11r7
