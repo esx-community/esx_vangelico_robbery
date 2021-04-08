@@ -9,7 +9,7 @@ When a player attempts to:
 - Recieve Jewels: The server will first check if a jewelry robbery at any location is currently active, then it will proceed to check if the player that triggered this event is the same player that started the robbery and is actively robbing that location.
 - Sell Jewels: The server will first check if the player who triggered this event has the minimum required amount of jewels that you need to sell, then it will proceed to check the players current distance from the jewelry sales location designated in the config.
 
-The client side of this resource has also been optimized and runs at 0.01ms when not near a robbery or sales location, 0.04ms when near a location, and ranges anywhere from 0.01ms to 0.10ms while actively robbing a location or selling jewels.
+The client side of this resource has also been optimized and runs at 0.01ms when not near a robbery or sales location, 0.04ms when near a location, and ranges anywhere from 0.01ms to 0.10ms while actively robbing a location.
 
 [REQUIREMENTS]
 
