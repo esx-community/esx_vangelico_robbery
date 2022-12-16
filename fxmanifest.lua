@@ -11,6 +11,7 @@ client_scripts {
 	'locales/de.lua',
 	'locales/br.lua',
 	'locales/en.lua',
+	'locales/es.lua',
 	'locales/fr.lua',
 	'config.lua',
 	'client/esx_vangelico_robbery_cl.lua'
@@ -22,6 +23,7 @@ server_scripts {
 	'locales/de.lua',
 	'locales/br.lua',
 	'locales/en.lua',
+	'locales/es.lua',
 	'locales/fr.lua',
 	'config.lua',
 	'server/esx_vangelico_robbery_sv.lua'
