@@ -1,7 +1,7 @@
 Locales['en'] = {
 
 	['robbery_cancelled'] = 'the robbery has been cancelled!',
-	['shop_robbery'] = 'Robbery in jewelry',
+	['shop_robbery'] = 'Jewelery Store',
 	['press_to_rob'] = 'Shoot to start the robbery',
 	['seconds_remaining'] = '~w~ seconds remaining',
 	['robbery_cancelled_at'] = '~r~ robbery has been cancelled at: ~b~',
