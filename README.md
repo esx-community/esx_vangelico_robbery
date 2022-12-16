@@ -4,8 +4,8 @@ ESX Vangelico Robbery V 2.0.0
 [REQUIREMENTS]
 
   * FiveM-ipl   => https://github.com/esx-community/fivem-ipl
-  * esx_policejob => https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_policejob
-  * esx_ambulancejob => https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_ambulancejob
+  * esx_policejob => https://github.com/esx-framework/esx-legacy/tree/main/[esx_addons]/esx_policejob
+  * esx_ambulancejob => https://github.com/esx-framework/esx-legacy/tree/main/[esx_addons]/esx_ambulancejob
 
 [INSTALLATION]
 
@@ -20,7 +20,7 @@ ensure esx_vangelico_robbery
 
 [ORIGINAL SCRIPT]
 
-  * esx_holdup => https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_holdup
+  * esx_holdup => https://github.com/esx-framework/esx-legacy/tree/main/[esx_addons]/esx_holdup
 
 
 [VIDEO]
