@@ -5,7 +5,7 @@ game 'gta5'
 description 'ESX Vangelico Robbery'
 
 version '2.0.0'
-
+shared_script '@es_extended/imports.lua'
 client_scripts {
 	'@es_extended/locale.lua',
 	'locales/de.lua',
