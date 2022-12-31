@@ -5,12 +5,13 @@ game 'gta5'
 description 'ESX Vangelico Robbery'
 
 version '2.0.0'
-
+shared_script '@es_extended/imports.lua'
 client_scripts {
 	'@es_extended/locale.lua',
 	'locales/de.lua',
 	'locales/br.lua',
 	'locales/en.lua',
+	'locales/es.lua',
 	'locales/fr.lua',
 	'config.lua',
 	'client/esx_vangelico_robbery_cl.lua'
@@ -22,6 +23,7 @@ server_scripts {
 	'locales/de.lua',
 	'locales/br.lua',
 	'locales/en.lua',
+	'locales/es.lua',
 	'locales/fr.lua',
 	'config.lua',
 	'server/esx_vangelico_robbery_sv.lua'
